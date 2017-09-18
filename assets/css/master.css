@@ -1,0 +1,23 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.texto-primario{
+  color: #009edb;
+}
+
+.boton-primario{
+  background-color: #009edb;
+  color: white;
+}
+
+.boton-primario:hover,.boton-primario:active{
+  background-color: #03668c;
+  color: white;
+}
+
+.fondo-primario{
+  background-color: #009edb;
+  color: white;
+}
